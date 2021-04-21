@@ -39,6 +39,6 @@
     "@wdio/sync": "^7.2.0",
     "chromedriver": "^89.0.0",
     "wdio-chromedriver-service": "^7.0.0",
-    "wdio-intercept-service": "^4.1.3"
+    "wdio-image-comparison-service": "^2.2.0"
   }
 }
